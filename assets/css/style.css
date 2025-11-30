@@ -163,8 +163,8 @@ html {
 }
 
 html {
-  /* background: var(--smoky-black); */
-  background-image: url("../images/Pozadí-Rambo.JPG");
+  background: var( --eerie-black-1); 
+ /*  background-image: url("../images/Pozadí-Rambo.JPG");*/
   object-fit: auto;
   background: sticky;
   background-position: top;
