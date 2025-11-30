@@ -1163,7 +1163,7 @@ main {
 
 .blog-post-item>a {
   position: relative;
-  background: var(--border-gradient-onyx);
+  background: var(--eerie-black-2);
   height: 100%;
   box-shadow: var(--shadow-4);
   border-radius: 16px;
